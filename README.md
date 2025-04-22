@@ -7,3 +7,4 @@ Qiskit setup on Windows computer:
   * ```conda install jupyter```
   * ```pip install -r requirements.txt``` \
   The requirements.txt file take from this project. 
+The Qiskit installation is described also under this link: https://docs.quantum.ibm.com/guides/install-qiskit
